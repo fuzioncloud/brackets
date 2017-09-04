@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014 Adobe Systems Incorporated. All rights reserved.
+ * Copyright (c) 2014 - present Adobe Systems Incorporated. All rights reserved.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the "Software"),
@@ -21,11 +21,8 @@
  *
  */
 
-/*jslint vars: true, plusplus: true, devel: true, nomen: true, indent: 4, maxerr: 50 */
-/*global define */
-
 define({
     // Relative to the samples folder
     "ADOBE_THIRD_PARTY" : "http://www.adobe.com/go/thirdparty/",
-    "WEB_PLATFORM_DOCS_LICENSE" : "http://creativecommons.org/licenses/by/3.0/deed.hr"
+    "MDN_DOCS_LICENSE" : "http://creativecommons.org/licenses/by-sa/2.5/deed.hr"
 });
